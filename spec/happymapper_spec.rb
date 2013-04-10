@@ -1,6 +1,4 @@
-require File.dirname(__FILE__) + '/spec_helper.rb'
-require 'pp'
-require 'uri'
+require 'spec_helper'
 
 module Analytics
   class Property
